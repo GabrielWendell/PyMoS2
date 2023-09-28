@@ -14,3 +14,22 @@ Python Modules for a Static Star Model
 
 ---
 
+### `Stellar_core`
+The graphs show the behavior of mass, density, pressure, temperature, luminosity and energy production as the radius changes. Luminosity, mass and radius are scaled with corresponding values for the Sun. Pressure, density and energy production are shown with logarithmic axes. The dashed vertical line in the luminosity graph marks the beginning of the nucleus $(L < 0.995L_0)$.
+
+![img1](https://github.com/GabrielWendell/PyMoS2/blob/main/img/Stellar_core-img1.png)
+
+
+
+### `Stellar_structure`
+Cross section of the best star model. The convection and radiation energy transport layers are marked on the graph. The total energy production divided by its maximum value, $\varepsilon/\varepsilon_{max}.$, plotted together with the relative energy production of each of the three branches of the PP chain.
+
+![img2](https://github.com/GabrielWendell/PyMoS2/blob/main/img/Stellar_structure-img2.png)
+![img3](https://github.com/GabrielWendell/PyMoS2/blob/main/img/Energy_prod.png)
+
+
+
+### `Stellar_convection`
+Animation snapshots of temperature (indicated by colors) and velocity (indicated by vectors) at different execution times, corresponding (from top to bottom) to the $1^{\circ}$, $45^{\circ}$, $105^{\circ}$ and $180^{\circ}$ second of the simulation.
+
+![img4](https://github.com/GabrielWendell/PyMoS2/blob/main/img/Frames_convection.png)
