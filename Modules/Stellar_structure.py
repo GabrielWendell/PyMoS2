@@ -1,5 +1,5 @@
 """
-This is the Stellar Structure module of the MoS2 package whose objective 
+This is the Stellar Structure module of the PyMoS2 package whose objective 
 is to simulate energy transport by radiation and convection in the stellar interior.
 
 Rocha, G. W. C. (2021)
