@@ -15,9 +15,4 @@ Python Modules for a Static Star Model
 
 ---
 
-### License
-`PyMoS2` is an open source Python package under the Creative Commons license.
-
----
-
 > Author: Gabriel Wendell Celestino Rocha ([gabrielwendell@fisica.ufrn.br](mailto:gabrielwendell@fisica.ufrn.br)).
