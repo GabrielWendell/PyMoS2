@@ -1,6 +1,7 @@
 # `PyMoS2`
-Python Modules for a Static Star Model
----
+## Python Modules for a Static Star Model
+
+![image](https://github.com/GabrielWendell/PyMoS2/blob/main/Logo/PyMoS2_Color_noBackground.png)
 
 `PyMoS2` is a program that aims to offer a comprehensive simulation of a simple model of the interior of a static, non-magnetic star of $1$ solar mass $(1$ $M_{\odot})$, from the production of energy through nuclear reactions, the radiative and convective transport of energy and the movement of a convective cell.
 
