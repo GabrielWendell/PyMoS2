@@ -1,7 +1,7 @@
 # `PyMoS2`
 ## Python Modules for a Static Star Model
 
-![image](https://github.com/GabrielWendell/PyMoS2/blob/main/Logo/PyMoS2_Color_noBackground.png)
+![image](https://github.com/GabrielWendell/PyMoS2/blob/main/Logo/PyMoS2_Color_OldVersion.jpg)
 
 - Art maded by: **Vitor Santos** ([Vitorsodb@gmail.com](mailto:Vitorsodb@gmail.com)).
 - You can check his portfolio here: [Viktor Freakstein](https://www.behance.net/gentlesuspenders_).
