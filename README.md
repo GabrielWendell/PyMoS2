@@ -48,4 +48,9 @@ This will download the code and instructions =D
 
 ---
 
-> Author: Gabriel Wendell Celestino Rocha ([gabrielwendell@fisica.ufrn.br](mailto:gabrielwendell@fisica.ufrn.br)).
+> **Author**: Gabriel Wendell Celestino Rocha ([gabrielwendell@fisica.ufrn.br](mailto:gabrielwendell@fisica.ufrn.br)).
+
+### Acknowledgement
+- Leandro de Almeida (Ted): [https://github.com/monolipo](https://github.com/monolipo)
+- Eduardo Nunes Veloso: [https://github.com/dioph](https://github.com/dioph)
+
